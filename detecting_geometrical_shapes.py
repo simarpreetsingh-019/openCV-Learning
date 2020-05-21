@@ -32,3 +32,8 @@ for contour in contours:
         
     elif len(approx) == 10 :
         cv2.putText(img, "star", (x, y), cv2.FONT_HERSHEY_COMPLEX, 0.5, (0, 0, 0))
+     
+    else:
+        cv2.putText(img, "circle", (x, y), cv2.FONT_HERSHEY_COMPLEX, 0.5, (0, 0, 0))
+
+
