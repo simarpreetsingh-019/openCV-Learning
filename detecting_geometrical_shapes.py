@@ -36,4 +36,8 @@ for contour in contours:
     else:
         cv2.putText(img, "circle", (x, y), cv2.FONT_HERSHEY_COMPLEX, 0.5, (0, 0, 0))
 
+cv2.imshow('shapes', img)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+
 
