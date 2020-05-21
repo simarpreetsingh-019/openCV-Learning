@@ -24,7 +24,7 @@ for contour in contours:
         if aspectRatio >= 0.95 and aspectRatio < 1.05:
             cv2.putText(img, "square", (x, y), cv2.FONT_HERSHEY_COMPLEX, 0.5, (0, 0, 0))
             
-         else:
+        else:
             cv2.putText(img, "rectangle", (x, y), cv2.FONT_HERSHEY_COMPLEX, 0.5, (0, 0, 0))
             
     elif len(approx) == 5 :
