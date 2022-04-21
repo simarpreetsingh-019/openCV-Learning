@@ -1,6 +1,6 @@
 # openCV-Learning
-This repository contains some programs that I learned while exploring the library : OpenCV using python
- 
+This repository contains some programs that I learned while exploring the library : OpenCV using python.
+
 ## Articles Link
 
 # What is canny edge detection 
