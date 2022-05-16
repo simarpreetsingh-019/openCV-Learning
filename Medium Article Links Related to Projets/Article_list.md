@@ -5,3 +5,5 @@ Topic :  RDH PVO
 
 2) [A novel reversible image data hiding scheme based on pixel value ordering and dynamic pixel block partition  
       Author: Xiang Wang, Jing Ding, Qingqi Pei](https://sci-hub.ee/10.1016/j.ins.2015.03.022).
+
+3) “Color Identification in Images — Machine Learning Application” by Karan Bhanot https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
